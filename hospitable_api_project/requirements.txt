@@ -1,0 +1,6 @@
+python-dotenv
+requests
+pandas
+google-cloud-bigquery
+google-cloud-storage
+pandas

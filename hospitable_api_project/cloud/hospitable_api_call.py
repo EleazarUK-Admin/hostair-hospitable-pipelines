@@ -21,8 +21,8 @@ headers = {
     "Content-Type": "application/json"
 }
 data = {
-    "client_id": "4354f950-df52-4105-a581-3dfe74398800",
-    "client_secret": "7a6e215c8273d469dd17370966b2f474b4637402ac4ef3f6e809ba6d2b2432481",
+    "client_id": "",
+    "client_secret": "",
     "audience": "api.hospitable.com",
     "grant_type": "client_credentials"
 }
